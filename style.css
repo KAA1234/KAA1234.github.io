@@ -1,3 +1,7 @@
+* {
+    flex-direction: flex-column;
+}
+
 Nav {
     display: flex;
     justify-content: center;
