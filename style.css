@@ -6,6 +6,10 @@ Nav {
     font-family: Caprasimo;
 }
 
+body { 
+    display: flex;
+}
+
 .container {
     display: flex-column;
     max-width: 1200px;
