@@ -1,35 +1,5 @@
 
 * {
-    margin:0;
-}
-
-Nav {
-    justify-content: center;
-    max-width: 1200px;
-    font-size: 40px;
-    font-family: Caprasimo;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-body {
+    box-sizing: border-box;
     display: flex;
-    flex-direction: column;
-    width: 100vw;
-    justify-content: center;
-}
-
-.container {
-    display: flex-column;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-
-img {
-    max-width: 30%;
-    margin: 1%;
-    border: solid;
 }
