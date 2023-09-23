@@ -22,3 +22,15 @@ html {
     opacity: 1;
   }
 }
+
+#profile {
+  margin-top: 125px;
+}
+
+#contact {
+  margin-top: 200px;
+}
+
+H1 {
+  color: #5bc0de;
+}
